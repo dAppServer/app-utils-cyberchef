@@ -1,2 +1,3 @@
 # app-utils-cyberchef
-meta data for CyberChef installation into desktop
+
+Repo for json object licenced under EUPL-1.2; the app this installs is licenced under Apache 2.0
