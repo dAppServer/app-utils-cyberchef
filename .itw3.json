@@ -3,19 +3,19 @@
   "type": "app",
   "name": "CyberChef Data Toolkit",
   "install": "fs",
-  "version": "v9.48.0",
+  "version": "v9.55.0",
   "depends": ["server"],
   "app": {
     "type": "zip",
-    "url": "https://github.com/gchq/CyberChef/releases/download/v9.48.0/CyberChef_v9.48.0.zip",
+    "url": "https://github.com/gchq/CyberChef/releases/download/v9.55.0/CyberChef_v9.55.0.zip",
     "hooks": {
       "rename": {
-        "from": "CyberChef_v9.48.0.html",
+        "from": "CyberChef_v9.55.0.html",
         "to": "index.html"
       }
     }
   },
   "menu": {
-    "main": {"title": "CyberChef Data Toolkit", "icon": ["fas", "prescription-bottle"]}
+    "main": {"title": "CyberChef Data Toolkit", "icon": ["fas", "toolbox"]}
   }
 }
